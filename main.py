@@ -19,7 +19,7 @@ def main():
     if tipo == "1":
         print("\n=== REGISTROS DE TAMANHO FIXO ===")
 
-        # Cada registro no fixo tem 170 bytes
+        # Cada registro no fixo tem 170 bytes 
         TAM_REG = 170
 
         print(f"\nCada registro possui {TAM_REG} bytes.")
